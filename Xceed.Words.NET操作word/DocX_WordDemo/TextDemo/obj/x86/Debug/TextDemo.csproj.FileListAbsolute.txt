@@ -1,0 +1,16 @@
+G:\工作项目\例程\DocX_WordDemo\TextDemo\bin\Debug\TextDemo.exe
+G:\工作项目\例程\DocX_WordDemo\TextDemo\bin\Debug\TextDemo.pdb
+G:\工作项目\例程\DocX_WordDemo\TextDemo\obj\x86\Debug\TextDemo.Form1.resources
+G:\工作项目\例程\DocX_WordDemo\TextDemo\obj\x86\Debug\TextDemo.Properties.Resources.resources
+G:\工作项目\例程\DocX_WordDemo\TextDemo\obj\x86\Debug\TextDemo.csproj.GenerateResource.Cache
+G:\工作项目\例程\DocX_WordDemo\TextDemo\obj\x86\Debug\TextDemo.exe
+G:\工作项目\例程\DocX_WordDemo\TextDemo\obj\x86\Debug\TextDemo.pdb
+C:\Users\Joker\Desktop\DocX_WordDemo\TextDemo\bin\Debug\TextDemo.exe
+C:\Users\Joker\Desktop\DocX_WordDemo\TextDemo\bin\Debug\TextDemo.pdb
+C:\Users\Joker\Desktop\DocX_WordDemo\TextDemo\obj\x86\Debug\TextDemo.csprojResolveAssemblyReference.cache
+C:\Users\Joker\Desktop\DocX_WordDemo\TextDemo\obj\x86\Debug\TextDemo.Form1.resources
+C:\Users\Joker\Desktop\DocX_WordDemo\TextDemo\obj\x86\Debug\TextDemo.Properties.Resources.resources
+C:\Users\Joker\Desktop\DocX_WordDemo\TextDemo\obj\x86\Debug\TextDemo.csproj.GenerateResource.cache
+C:\Users\Joker\Desktop\DocX_WordDemo\TextDemo\obj\x86\Debug\TextDemo.csproj.CoreCompileInputs.cache
+C:\Users\Joker\Desktop\DocX_WordDemo\TextDemo\obj\x86\Debug\TextDemo.exe
+C:\Users\Joker\Desktop\DocX_WordDemo\TextDemo\obj\x86\Debug\TextDemo.pdb

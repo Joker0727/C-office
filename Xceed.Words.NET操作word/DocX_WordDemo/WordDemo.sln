@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordDemo", "WordDemo\WordDemo.csproj", "{63B74C2A-D0A4-4D75-A686-6F70D370A11F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextDemo", "TextDemo\TextDemo.csproj", "{8C42AE20-ECE3-4E0E-9DBE-8BA67B852160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B74C2A-D0A4-4D75-A686-6F70D370A11F}.Debug|x86.ActiveCfg = Debug|x86
+		{63B74C2A-D0A4-4D75-A686-6F70D370A11F}.Debug|x86.Build.0 = Debug|x86
+		{63B74C2A-D0A4-4D75-A686-6F70D370A11F}.Release|x86.ActiveCfg = Release|x86
+		{63B74C2A-D0A4-4D75-A686-6F70D370A11F}.Release|x86.Build.0 = Release|x86
+		{8C42AE20-ECE3-4E0E-9DBE-8BA67B852160}.Debug|x86.ActiveCfg = Debug|x86
+		{8C42AE20-ECE3-4E0E-9DBE-8BA67B852160}.Debug|x86.Build.0 = Debug|x86
+		{8C42AE20-ECE3-4E0E-9DBE-8BA67B852160}.Release|x86.ActiveCfg = Release|x86
+		{8C42AE20-ECE3-4E0E-9DBE-8BA67B852160}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

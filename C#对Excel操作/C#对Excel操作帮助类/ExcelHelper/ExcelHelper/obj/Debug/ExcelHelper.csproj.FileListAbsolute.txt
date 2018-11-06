@@ -1,0 +1,6 @@
+F:\GodMouse\DevelopSoft\VisualStudio2015\VisualStudio2015WorkPlace\ExcelHelper\ExcelHelper\bin\Debug\ExcelHelper.exe.config
+F:\GodMouse\DevelopSoft\VisualStudio2015\VisualStudio2015WorkPlace\ExcelHelper\ExcelHelper\bin\Debug\ExcelHelper.exe
+F:\GodMouse\DevelopSoft\VisualStudio2015\VisualStudio2015WorkPlace\ExcelHelper\ExcelHelper\bin\Debug\ExcelHelper.pdb
+F:\GodMouse\DevelopSoft\VisualStudio2015\VisualStudio2015WorkPlace\ExcelHelper\ExcelHelper\obj\Debug\ExcelHelper.csprojResolveAssemblyReference.cache
+F:\GodMouse\DevelopSoft\VisualStudio2015\VisualStudio2015WorkPlace\ExcelHelper\ExcelHelper\obj\Debug\ExcelHelper.exe
+F:\GodMouse\DevelopSoft\VisualStudio2015\VisualStudio2015WorkPlace\ExcelHelper\ExcelHelper\obj\Debug\ExcelHelper.pdb

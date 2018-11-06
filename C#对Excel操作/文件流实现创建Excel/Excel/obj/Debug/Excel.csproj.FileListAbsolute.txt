@@ -1,0 +1,9 @@
+F:\GodMouse\DevelopSoft\VisualStudio2015\VisualStudio2015WorkPlace\Excel\Excel\bin\Debug\Excel.exe.config
+F:\GodMouse\DevelopSoft\VisualStudio2015\VisualStudio2015WorkPlace\Excel\Excel\obj\Debug\Excel.Form1.resources
+F:\GodMouse\DevelopSoft\VisualStudio2015\VisualStudio2015WorkPlace\Excel\Excel\obj\Debug\Excel.Properties.Resources.resources
+F:\GodMouse\DevelopSoft\VisualStudio2015\VisualStudio2015WorkPlace\Excel\Excel\obj\Debug\Excel.csproj.GenerateResource.Cache
+F:\GodMouse\DevelopSoft\VisualStudio2015\VisualStudio2015WorkPlace\Excel\Excel\bin\Debug\Excel.exe
+F:\GodMouse\DevelopSoft\VisualStudio2015\VisualStudio2015WorkPlace\Excel\Excel\bin\Debug\Excel.pdb
+F:\GodMouse\DevelopSoft\VisualStudio2015\VisualStudio2015WorkPlace\Excel\Excel\obj\Debug\Excel.exe
+F:\GodMouse\DevelopSoft\VisualStudio2015\VisualStudio2015WorkPlace\Excel\Excel\obj\Debug\Excel.pdb
+F:\GodMouse\DevelopSoft\VisualStudio2015\VisualStudio2015WorkPlace\Excel\Excel\obj\Debug\Excel.csprojResolveAssemblyReference.cache
