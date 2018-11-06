@@ -1,0 +1,6 @@
+C:\Users\chenbo\Desktop\WordDemo\WordDemo\obj\Debug\WordDemo.csprojResolveAssemblyReference.cache
+C:\Users\chenbo\Desktop\WordDemo\WordDemo\bin\Debug\WordDemo.exe
+C:\Users\chenbo\Desktop\WordDemo\WordDemo\bin\Debug\WordDemo.pdb
+C:\Users\chenbo\Desktop\WordDemo\WordDemo\bin\Debug\Aspose.Words.dll
+C:\Users\chenbo\Desktop\WordDemo\WordDemo\obj\Debug\WordDemo.exe
+C:\Users\chenbo\Desktop\WordDemo\WordDemo\obj\Debug\WordDemo.pdb
